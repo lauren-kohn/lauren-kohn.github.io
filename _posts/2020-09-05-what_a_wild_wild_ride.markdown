@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What a wild, wild ride!"
-date:       2020-09-05 21:09:15 +0000
+date:       2020-09-05 17:09:16 -0400
 permalink:  what_a_wild_wild_ride
 ---
 
@@ -15,8 +15,6 @@ Today, I finished coding my first Flatiron School project - the CLI Data Gem. It
 Getting started with this project was pretty rough. Being a novice, I decided to start things off with a switch to a local environment. Due to some issues with the in-browser IDE, I lost close to two hours of code recently (even with my addiction to ctrl+S), and I wanted to prevent that from happening again. However, making the switch to the local environment was much more complicated than I expected. I am fortunate to have AMAZING tech support in my family, and that helped me to keep moving forward. Nonetheless, the change was destabilizing and made for a steeper learning curve. Motivation was low, but fortunately, tenacity filled in the gap.
 
 I began to watch the [CLI Live Project Build videos](http://www.youtube.com/watch?v=KwBMwZ89Hj8&list=PLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s&index=1), and I am so, so glad that I did. Even though my project has some different functionality, I learned a lot, including little details like the colorize gem. The recommended scraper tool is invaluable. Overall, just watching other people work through the creation process was quite reassuring.
-
-![This scraping tool was very helpful.](https://drive.google.com/file/d/1uwDu55dNyK1Vbf6Z5YQ6nGchpiLv0sag/view?usp=sharing)
 
 As it turned out, I would watch a bit of the video and then try to reproduce the parts I needed by myself. The first challenge was really finding a good scraping candidate. It took quite a while (more than a couple hours) to find an idea that I was excited about and a correlated website that I could successfully scrape. I looked at the US patent site, govenment spending, local events, a newspaper website, CDC data on Lyme disease, housing websites... I felt like finding a good scraping candidate was half the battle. The good news is that I have a TON of ideas that I'm excited to pursue in the future.
 
@@ -38,9 +36,7 @@ else
 end		
 ```
 
-I'm looking forward to the code review, because I expect that a more experienced set of eyes will have constructive criticism for me. I can definitely say that I am feeling more confident about getting classes to cooperate, calling methods from within other methods, and namespacing. All in all, it was a great opportunity to piece together so many different bits of what I have learned so far. It also helped me prove to myself that I can, in fact, create code that DOES things. One might say that there's evidence that my skills are blossoming. 
-
-![](http://gph.is/17Wlakn)
+I'm looking forward to the code review, because I expect that a more experienced set of eyes will have constructive criticism for me. I can definitely say that I am feeling more confident about getting classes to cooperate, calling methods from within other methods, and namespacing. All in all, it was a great opportunity to piece together so many different bits of what I have learned so far. It also helped me prove to myself that I can, in fact, create code that DOES things. One might say that there's evidence that my skills are ... blossoming. 
 	
 
 
